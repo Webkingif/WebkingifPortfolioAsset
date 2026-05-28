@@ -1,0 +1,116 @@
+[
+    {
+        "idno": 1,
+        "id": "Coffee website",
+        "title": "Coffee sales website",
+        "description": "A website that advertises the products of a coffebrand.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/coffee.jpg",
+        "demoLink": "https://webkingif.github.io/CoffeeWebsite",
+        "githubLink": "https://github.com/Webkingif/CoffeeWebsite",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "category": "Frontend",
+        "featured": true
+    },
+    {
+        "idno": 2,
+        "id": "Habit-Tracker",
+        "title": "Habit tracker",
+        "description": "A habit tracker crated with Next.js. It is a tool that can be used to track streaks.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/habitTracker.jpg",
+        "demoLink": "https://idowuhabittracker.netlify.app",
+        "githubLink": "https://github.com/webkingif/Habit-Tracker",
+        "tags": [
+            "CSS",
+            "Next.js",
+            "HTML",
+            "Typescript",
+            "React"
+        ],
+        "category": "Frontend",
+        "featured": true
+    },
+    {
+        "idno": 3,
+        "id": "Kindergarten-School-website",
+        "title": "Website for a school for Kindergatens",
+        "description": "A fun, interactive, and kid-friendly web application built using HTML, CSS, and JavaScript. This project was designed with children in mind — simple interface, bright visuals, and easy interaction.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/kindergaten.jpg",
+        "demoLink": "https://webkingif.github.io/Kindergarten-School-website",
+        "githubLink": "https://github.com/Webkingif/Kindergarten-School-website",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "category": "Frontend",
+        "featured": false
+    },
+    {
+        "idno": 4,
+        "id": "Highly responsive Landing page",
+        "title": "Cocoa claus chocolate",
+        "description": "A single page website built using pure HTML, CSS and Javascript. This site contains custom animations and sections designed to trigger cravings.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/cocoaclaus.jpg",
+        "demoLink": "https://webkingif.github.io/Cocoa-claus-chocolate",
+        "githubLink": "https://github.com/Webkingif/Cocoa-claus-chocolate",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "category": "Frontend",
+        "featured": false
+    },
+    {
+        "idno": 5,
+        "id": "Chess",
+        "title": "Grandmaster Chess",
+        "description": "Grandmaster AI Chess is a high-performance, fully accessible chess game powered entirely by a client side Javascript engine. Designed as a modern Progressive Web app (PWA), it features intelligent AI difficulties utilizing minimax and alpha-beta pruning algorithms. With advanced service worker caching, the entire platform installs instantly to mobile or desktop devices and operates beautifully offline - delivering console-speed responses without an active internet connection.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/chess2026.jpg",
+        "demoLink": "https://webkingif.github.io/chess-game-2026",
+        "githubLink": "https://github.com/Webkingif/chess-game-2026",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "category": "Frontend",
+        "featured": true
+    },
+    {
+        "idno": 6,
+        "id": "Apex legal law firm",
+        "title": "Apex legal law firm",
+        "description": "Designed and developed a comprehensive, 8-page responsive website for a fictional corporate law firm. The project focuses on establishing brand authority and trust through a clean, modern aesthetic. Built entirely with HTML5, CSS3, the site features a custom CSS Grid layout for optimal performance across all devices, an intuitive mobile navigaion system, and seamless third-party form integration client lead generation.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/apexlegallawfirm.jpg",
+        "demoLink": "https://webkingif.github.io/ApexLegalLawFirm",
+        "githubLink": "https://github.com/Webkingif/ApexLegalLawFirm",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "category": "Frontend",
+        "featured": true
+    },
+    {
+        "idno": 7,
+        "id": "Apex-Stock",
+        "title": "Apex Stock",
+        "description": "A fully responsive e-commerce style web application using HTML, CSS, and vanilla Javascript. The application fetches product data from the Dummy JSON API, displays detailed product information, and includes a dynamic search/filter feature for improved user experience. Designed with a modern custom UI without relying on any frontend frameworks or libraries.",
+        "image": "https://webkingif.github.io/webkingifportfolioasset/images/apexStock.png",
+        "demoLink": "https://webkingif.github.io/ApexStock",
+        "githubLink": "https://github.com/Webkingif/ApexStock",
+        "tags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+        ],
+        "category": "Frontend",
+        "featured": true
+    }
+]
