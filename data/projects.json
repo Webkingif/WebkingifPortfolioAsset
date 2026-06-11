@@ -1,5 +1,24 @@
 [
     {
+        "idno": 9,
+        "id": "Locky supermarket website",
+        "title": "Locky supermarket website",
+        "description": "Designed and developed a fully responsive multi-page supermarket web platform using Next.js and Tailwind CSS. The project features an interactive storefront, store locator, careers portal, supplier onboarding system, and property acquisition portal. Focused on delivering a modern user experience through responsive design, smooth animations, optimized state management, and clean, production-ready code.",
+        "image": "https://webkingif.github.io/WebkingifPortfolioAsset/images/locky2026.jpg",
+        "demoLink": "https://idowulocky2026.netlify.app",
+        "githubLink": "https://github.com/Webkingif/LockySupermarket",
+        "tags": [
+            "Tailwind CSS",
+            "HTML",
+            "Typescript",
+            "React",
+            "Next.js",
+            "Font awesome"
+        ],
+        "category": "Frontend",
+        "featured": true
+    },
+    {
         "idno": 1,
         "id": "Coffee website",
         "title": "Coffee sales website",
