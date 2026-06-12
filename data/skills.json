@@ -1,5 +1,14 @@
 [
     {
+        "name": "HTML"
+    },
+    {
+        "name": "CSS"
+    },
+    {
+        "name": "Javascript"
+    },
+    {
         "name": "React"
     },
     {
@@ -22,5 +31,8 @@
     },
     {
         "name": "Node.js"
+    },
+    {
+        "name": "Cytoscape.js"
     }
 ]
