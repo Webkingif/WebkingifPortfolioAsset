@@ -137,7 +137,7 @@
         "id": "Minimum Span Tree",
         "title": "Minimum Span Tree",
         "description": "The Minimum Spanning Tree Visualizer is a highly polished, interactive computer science laboratory designed to demystify complex greedy graph algorithms. Developed with a strict 'Human-First' UI philosophy, this laboratory empowers students and engineers to visually construct custom weighted topologies, tweak edge weights, and trigger instantaneous execution of Kruskal's (Union-Find) and Prim's (Min-Heap / Priority Queue) minimum spanning tree algorithms.",
-        "image": "https://webkingif.github.io/WebkingifPortfolioAsset/images/minimumspantree.png",
+        "image": "https://webkingif.github.io/WebkingifPortfolioAsset/images/minimumspantree.jpg",
         "demoLink": "https://idowuminimumspantree.netlify.app/",
         "githubLink": "https://github.com/Webkingif/Minimum-span-tree/tree/main",
         "tags": [
