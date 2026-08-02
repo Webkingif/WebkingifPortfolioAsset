@@ -159,7 +159,7 @@
         "id": "UnilagCompass",
         "title": "UnilagCompass",
         "description": "UnilagCompass is a web application built to help University of Lagos (UNILAG) students navigate the campus with ease. Users can search for any two locations on campus and instantly get the shortest distance and the optimal route displayed on an interactive map. Built with Next.js, React, Leaflet, OpenstreetMap, Tailwind, Typescript and Lucide React, the project demonstrates frontend development, interactive mapping, route visualization, and responsive UI design.",
-        "image": "https://webkingif.github.io/WebkingifPortfolioAsset/images/unilagcompass.jpg",
+        "image": "https://webkingif.github.io/WebkingifPortfolioAsset/images/unilagcompass.png",
         "demoLink": "https://unilagcompass.netlify.app",
         "githubLink": "https://github.com/Webkingif/UnilagCompass",
         "tags": [
